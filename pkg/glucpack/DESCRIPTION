@@ -1,0 +1,10 @@
+Package: glucpack
+Title: glucpack
+Description: Insulin Sensitivity and Insulin Resistance methods. Data from cobelli paper, methods from numerous papers and home grown
+Version: 0.0.5
+Author:DCC <rebjh@channing.harvard.edu>
+Maintainer: DCC <rebjh@channing.harvard.edu>
+Depends: R (>= 2.6.1), methods
+License: Artistic 2.0
+biocViews: Statistics
+Packaged: Wed Dec  9 09:20:33 2009; strrr
